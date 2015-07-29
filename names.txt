@@ -30,7 +30,7 @@
 | 27 | Dyaa Ibrahim Saad Ahmed Abobaraka             |      |
 | 28 | Tarek Ashraf Ahmad Ameen Rezq                 |      |
 | 29 | Tarek Khaled Ismail Eltalawy                  |      |
-| 30 | Tarek Khaled Ragab Essawy Elsayed             | Yes  |
+| 30 | Tarek Khaled Ragab Esawi Elsayed              | Yes  |
 | 31 | Abdelrahman Ameer Abdelrahman Elessawy        |      |
 | 32 | Abdelrahman Aly Mahmoud Morgan Abdallah       |      |
 | 33 | Abdelrahman Mohamed Kamal Ibrahim Ellewaa     |      |
